@@ -1,0 +1,251 @@
+product_id,sku,product_name,category,sub_category,brand,unit_cost_usd,unit_price_usd,supplier_id,launch_year,is_discontinued
+PROD-1001,SKU-371846,AeroWear Smart Eco 100,Electronics,Smart Watches,AeroWear,203.97,383.9,SUP-10,2024,Yes
+PROD-1002,SKU-984955,VeloceHome Cookware Ultra 101,Home & Kitchen,Cookware,VeloceHome,30.49,52.33,SUP-11,2023,No
+PROD-1003,SKU-850426,AeroWear Travel Elite 102,Apparel & Footwear,Travel Bags,AeroWear,45.49,122.47,SUP-12,2022,No
+PROD-1004,SKU-728999,ZenithPro Cycling Plus 103, Fitness & Outdoors ,Cycling,ZenithPro,114.7,264.18,SUP-13,2021,No
+PROD-1005,SKU-536344,ApexGear Grooming Pro 104,Beauty & Personal Care,Grooming Kits,ApexGear,13.8,39.23,SUP-14,2022,No
+PROD-1006,SKU-211895,VeloceHome Networking Max 105,Electronics,Networking,VeloceHome,43.51,68.57,SUP-15,2024,No
+PROD-1007,SKU-389906,Kinetix Smart Elite 106,Home & Kitchen,Smart Home,Kinetix,80.43,175.34,SUP-16,2023,No
+PROD-1008,SKU-758599,AeroWear Travel Plus 107,Apparel & Footwear,Travel Bags,AeroWear,36.19,90.44,SUP-17,2021,Yes
+PROD-1009,SKU-871317,VeloceHome Camping Core 108,Fitness & Outdoors,Camping Gear,VeloceHome,18.42,36.51,SUP-18,2021,No
+PROD-1010,SKU-557187,PulseFit Hair Eco 109,Beauty & Personal Care,Hair Styling,PulseFit,56.67,148.83,SUP-19,2022,No
+PROD-1011,SKU-599062,PulseFit Laptop Smart 110,Electronics,Laptop Accessories,PulseFit,123.03,207.3,SUP-20,2025,No
+PROD-1012,SKU-112567,PulseFit Cookware Plus 111,Home & Kitchen,Cookware,PulseFit,63.39,141.58,SUP-21,2022,No
+PROD-1013,SKU-710025,ApexGear Accessories Eco 112,Apparel & Footwear,Accessories,ApexGear,56.08,106.68,SUP-22,2022,Yes
+PROD-1014,SKU-615093,ZenithPro Yoga Series X 113,Fitness & Outdoors,Yoga & Recovery,ZenithPro,104.95,181.58,SUP-23,2023,No
+PROD-1015,SKU-106857,ZenithPro Grooming Smart 114,Beauty & Personal Care,Grooming Kits,ZenithPro,27.73,71.9,SUP-24,2023,No
+PROD-1016,SKU-952035,AeroWear Smart Series X 115,Electronics,Smart Watches,AeroWear,90.43,165.35,SUP-25,2021,No
+PROD-1017,SKU-437543,AeroWear Smart Series X 116,Home & Kitchen,Smart Home,AeroWear,126.4,237.58,SUP-26,2025,No
+PROD-1018,SKU-158086,ApexGear Activewear Elite 117,Apparel & Footwear,Activewear,ApexGear,70.67,147.6,SUP-27,2022,No
+PROD-1019,SKU-451289,AeroWear Strength Eco 118,Fitness & Outdoors,Strength Equipment,AeroWear,127.13,225.63,SUP-28,2024,No
+PROD-1020,SKU-918702,ApexGear Grooming Smart 119,Beauty & Personal Care,Grooming Kits,ApexGear,55.56,124.81,SUP-29,2024,No
+PROD-1021,SKU-220071,PulseFit Laptop Prime 120,Electronics,Laptop Accessories,PulseFit,193.76,327.45,SUP-30,2022,Yes
+PROD-1022,SKU-626300,NovaTech Coffee Series X 121,Home & Kitchen,Coffee & Espresso,NovaTech,107.47,206.98,SUP-31,2024,No
+PROD-1023,SKU-159049,Lumina Activewear Smart 122,Apparel & Footwear,Activewear,Lumina,80.1,158.96,SUP-32,2023,No
+PROD-1024,SKU-846918,ApexGear Camping Ultra 123,Fitness & Outdoors,Camping Gear,ApexGear,13.97,33.07,SUP-33,2022,No
+PROD-1025,SKU-709277,Kinetix Wellness Series X 124,Beauty & Personal Care,Wellness,Kinetix,11.25,28.71,SUP-34,2021,No
+PROD-1026,SKU-451730,AeroWear Laptop Series X 125,Electronics,Laptop Accessories,AeroWear,174.37,319.39,SUP-10,2023,No
+PROD-1027,SKU-139080,Lumina Storage Plus 126,Home & Kitchen,Storage,Lumina,106.98,193.26,SUP-11,2022,No
+PROD-1028,SKU-943311,ApexGear Activewear Series X 127,Apparel & Footwear,Activewear,ApexGear,10.11,23.3,SUP-12,2022,No
+PROD-1029,SKU-621677,PulseFit Yoga Elite 128,Fitness & Outdoors,Yoga & Recovery,PulseFit,25.03,48.55,SUP-13,2023,No
+PROD-1030,SKU-562431,PulseFit Skincare Eco 129,Beauty & Personal Care,Skincare Devices,PulseFit,39.91,103.3,SUP-14,2025,No
+PROD-1031,SKU-546278,ApexGear Monitors Smart 130,Electronics,Monitors & Displays,ApexGear,106.42,201.01,SUP-15,2022,No
+PROD-1032,SKU-334027,Lumina Coffee Pro 131,Home & Kitchen,Coffee & Espresso,Lumina,19.81,39.5,SUP-16,2021,No
+PROD-1033,SKU-165888,ApexGear Travel Plus 132,Apparel & Footwear,Travel Bags,ApexGear,43.52,84.55,SUP-17,2023,No
+PROD-1034,SKU-478095,VeloceHome Camping Smart 133,Fitness & Outdoors,Camping Gear,VeloceHome,55.91,116.02,SUP-18,2021,No
+PROD-1035,SKU-923578,Kinetix Fragrance Smart 134,Beauty & Personal Care,Fragrance,Kinetix,57.45,126.01,SUP-19,2021,Yes
+PROD-1036,SKU-328800,PulseFit Networking Elite 135,Electronics,Networking,PulseFit,60.44,93.89,SUP-20,2021,Yes
+PROD-1037,SKU-216293,VeloceHome Air Core 136,Home & Kitchen,Air Purifiers,VeloceHome,17.31,33.0,SUP-21,2023,No
+PROD-1038,SKU-980380,ZenithPro Travel Elite 137,Apparel & Footwear,Travel Bags,ZenithPro,13.19,31.16,SUP-22,2023,No
+PROD-1039,SKU-361185,ApexGear Hydration Series X 138,Fitness & Outdoors,Hydration,ApexGear,109.63,215.67,SUP-23,2022,No
+PROD-1040,SKU-398310,NovaTech Wellness Smart 139,Beauty & Personal Care,Wellness,NovaTech,22.23,54.43,SUP-24,2022,No
+PROD-1041,SKU-481383,ApexGear Laptop Eco 140,Electronics,Laptop Accessories,ApexGear,188.07,299.31,SUP-25,2021,No
+PROD-1042,SKU-234078,ZenithPro Storage Prime 141,Home & Kitchen,Storage,ZenithPro,94.23,199.16,SUP-26,2022,No
+PROD-1043,SKU-232076,ApexGear Activewear Eco 142, Apparel & Footwear ,Activewear,ApexGear,85.57,174.73,SUP-27,2021,No
+PROD-1044,SKU-540796,NovaTech Cycling Max 143,Fitness & Outdoors,Cycling,NovaTech,51.2,116.84,SUP-28,2023,No
+PROD-1045,SKU-237039,Lumina Skincare Max 144,Beauty & Personal Care,Skincare Devices,Lumina,23.74,57.88,SUP-29,2022,No
+PROD-1046,SKU-303036,VeloceHome Laptop Plus 145,Electronics,Laptop Accessories,VeloceHome,87.86,134.91,SUP-30,2023,No
+PROD-1047,SKU-118879,PulseFit Air Series X 146,Home & Kitchen,Air Purifiers,PulseFit,30.26,59.65,SUP-31,2024,No
+PROD-1048,SKU-626549,PulseFit Activewear Ultra 147,Apparel & Footwear,Activewear,PulseFit,69.24,138.92,SUP-32,2021,No
+PROD-1049,SKU-822633,NovaTech Hydration Pro 148,Fitness & Outdoors,Hydration,NovaTech,136.34,296.11,SUP-33,2023,Yes
+PROD-1050,SKU-918755,NovaTech Skincare Prime 149,Beauty & Personal Care,Skincare Devices,NovaTech,40.5,109.31,SUP-34,2021,No
+PROD-1051,SKU-922296,NovaTech Laptop Pro 150,Electronics,Laptop Accessories,NovaTech,53.99,107.1,SUP-10,2021,No
+PROD-1052,SKU-370071,Kinetix Smart Max 151,Home & Kitchen,Smart Home,Kinetix,53.36,95.52,SUP-11,2024,No
+PROD-1053,SKU-558100,Kinetix Activewear Smart 152,Apparel & Footwear,Activewear,Kinetix,18.88,43.85,SUP-12,2022,No
+PROD-1054,SKU-706544,ApexGear Hydration Pro 153,Fitness & Outdoors,Hydration,ApexGear,31.44,71.99,SUP-13,2022,Yes
+PROD-1055,SKU-447047,Lumina Skincare Plus 154,Beauty & Personal Care,Skincare Devices,Lumina,59.1,136.24,SUP-14,2022,N
+PROD-1056,SKU-221686,AeroWear Wireless Prime 155,Electronics,Wireless Audio,AeroWear,82.47,159.53,SUP-15,2023,No
+PROD-1057,SKU-940582,AeroWear Cookware Ultra 156,Home & Kitchen,Cookware,AeroWear,33.88,76.68,SUP-16,2022,Y
+PROD-1058,SKU-469311,VeloceHome Outerwear Eco 157, Apparel & Footwear ,Outerwear,VeloceHome,79.56,177.22,SUP-17,2025,No
+PROD-1059,SKU-814007,Lumina Hydration Ultra 158,Fitness & Outdoors,Hydration,Lumina,24.73,47.7,SUP-18,2021,No
+PROD-1060,SKU-637344,Kinetix Fragrance Max 159,Beauty & Personal Care,Fragrance,Kinetix,52.62,133.01,SUP-19,2023,No
+PROD-1061,SKU-635086,ApexGear Smart Plus 160,Electronics,Smart Watches,ApexGear,176.98,302.99,SUP-20,2022,No
+PROD-1062,SKU-992923,ApexGear Coffee Prime 161,Home & Kitchen,Coffee & Espresso,ApexGear,39.14,83.85,SUP-21,2021,No
+PROD-1063,SKU-814418,NovaTech Outerwear Core 162,Apparel & Footwear,Outerwear,NovaTech,59.55,160.19,SUP-22,2023,N
+PROD-1064,SKU-676035,VeloceHome Hydration Plus 163,Fitness & Outdoors,Hydration,VeloceHome,103.97,215.26,SUP-23,2022,Yes
+PROD-1065,SKU-135738,Kinetix Skincare Series X 164,Beauty & Personal Care,Skincare Devices,Kinetix,64.61,139.76,SUP-24,2021,Yes
+PROD-1066,SKU-856933,Lumina Smart Prime 165,Electronics,Smart Watches,Lumina,123.37,199.87,SUP-25,2023,No
+PROD-1067,SKU-291017,Lumina Coffee Plus 166,Home & Kitchen,Coffee & Espresso,Lumina,114.58,216.63,SUP-26,2024,No
+PROD-1068,SKU-575614,NovaTech Activewear Max 167,Apparel & Footwear,Activewear,NovaTech,51.35,123.37,SUP-27,2023,No
+PROD-1069,SKU-379371,ApexGear Strength Eco 168, Fitness & Outdoors ,Strength Equipment,ApexGear,137.98,294.4,SUP-28,2021,No
+PROD-1070,SKU-789753,ApexGear Fragrance Smart 169,Beauty & Personal Care,Fragrance,ApexGear,34.43,94.9,SUP-29,2021,Y
+PROD-1071,SKU-183800,NovaTech Networking Eco 170,Electronics,Networking,NovaTech,204.64,341.68,SUP-30,2022,Y
+PROD-1072,SKU-750819,Lumina Coffee Max 171,Home & Kitchen,Coffee & Espresso,Lumina,30.51,59.31,SUP-31,2021,N
+PROD-1073,SKU-421605,Lumina Activewear Plus 172,Apparel & Footwear,Activewear,Lumina,87.13,175.25,SUP-32,2022,Yes
+PROD-1074,SKU-157848,Lumina Yoga Series X 173,Fitness & Outdoors,Yoga & Recovery,Lumina,84.34,174.18,SUP-33,2022,No
+PROD-1075,SKU-648973,AeroWear Fragrance Max 174,Beauty & Personal Care,Fragrance,AeroWear,33.61,77.65,SUP-34,2022,No
+PROD-1076,SKU-715805,ApexGear Monitors Smart 175,Electronics,Monitors & Displays,ApexGear,208.49,367.73,SUP-10,2021,No
+PROD-1077,SKU-743468,PulseFit Air Ultra 176,Home & Kitchen,Air Purifiers,PulseFit,81.84,152.61,SUP-11,2025,No
+PROD-1078,SKU-889912,ApexGear Running Pro 177,Apparel & Footwear,Running Shoes,ApexGear,27.27,73.09,SUP-12,2021,Y
+PROD-1079,SKU-862206,ZenithPro Cycling Eco 178,Fitness & Outdoors,Cycling,ZenithPro,79.21,159.37,SUP-13,2021,N
+PROD-1080,SKU-617653,PulseFit Wellness Pro 179,Beauty & Personal Care,Wellness,PulseFit,41.44,103.15,SUP-14,2023,No
+PROD-1081,SKU-115860,Lumina Monitors Prime 180,Electronics,Monitors & Displays,Lumina,140.72,216.58,SUP-15,2022,No
+PROD-1082,SKU-168578,Lumina Air Max 181,Home & Kitchen,Air Purifiers,Lumina,55.03,95.4,SUP-16,2025,No
+PROD-1083,SKU-872884,NovaTech Outerwear Plus 182,Apparel & Footwear,Outerwear,NovaTech,72.24,148.76,SUP-17,2022,No
+PROD-1084,SKU-419374,Kinetix Yoga Prime 183,Fitness & Outdoors,Yoga & Recovery,Kinetix,48.42,104.82,SUP-18,2024,No
+PROD-1085,SKU-943458,NovaTech Fragrance Max 184,Beauty & Personal Care,Fragrance,NovaTech,55.27,111.8,SUP-19,2024,No
+PROD-1086,SKU-106564,PulseFit Laptop Plus 185,Electronics,Laptop Accessories,PulseFit,149.27,283.21,SUP-20,2021,No
+PROD-1087,SKU-906444,ApexGear Storage Max 186,Home & Kitchen,Storage,ApexGear,107.11,234.06,SUP-21,2021,No
+PROD-1088,SKU-154169,NovaTech Travel Core 187,Apparel & Footwear,Travel Bags,NovaTech,20.93,55.86,SUP-22,2021,No
+PROD-1089,SKU-583438,PulseFit Cycling Pro 188,Fitness & Outdoors,Cycling,PulseFit,155.99,307.34,SUP-23,2024,No
+PROD-1090,SKU-849776,Lumina Wellness Plus 189, Beauty & Personal Care ,Wellness,Lumina,30.75,69.38,SUP-24,2024,No
+PROD-1091,SKU-912773,PulseFit Networking Elite 100,Electronics,Networking,PulseFit,96.21,165.33,SUP-25,2022,No
+PROD-1092,SKU-549974,AeroWear Cookware Elite 101,Home & Kitchen,Cookware,AeroWear,48.93,99.4,SUP-26,2021,No
+PROD-1093,SKU-576337,Lumina Travel Elite 102,Apparel & Footwear,Travel Bags,Lumina,61.99,136.0,SUP-27,2021,N
+PROD-1094,SKU-933273,Kinetix Camping Prime 103, Fitness & Outdoors ,Camping Gear,Kinetix,100.19,203.75,SUP-28,2021,No
+PROD-1095,SKU-454728,AeroWear Hair Elite 104,Beauty & Personal Care,Hair Styling,AeroWear,26.73,72.52,SUP-29,2024,No
+PROD-1096,SKU-405479,VeloceHome Networking Elite 105,Electronics,Networking,VeloceHome,218.58,418.15,SUP-30,2022,No
+PROD-1097,SKU-679443,AeroWear Air Ultra 106,Home & Kitchen,Air Purifiers,AeroWear,68.2,115.07,SUP-31,2023,No
+PROD-1098,SKU-198314,ApexGear Travel Ultra 107,Apparel & Footwear,Travel Bags,ApexGear,29.83,80.38,SUP-32,2021,No
+PROD-1099,SKU-312219,ApexGear Hydration Core 108,Fitness & Outdoors,Hydration,ApexGear,140.81,306.12,SUP-33,2021,No
+PROD-1100,SKU-653815,ApexGear Fragrance Smart 109,Beauty & Personal Care,Fragrance,ApexGear,11.78,24.91,SUP-34,2021,No
+PROD-1101,SKU-457610,ZenithPro Monitors Max 110,Electronics,Monitors & Displays,ZenithPro,210.07,415.58,SUP-10,2022,No
+PROD-1102,SKU-541991,ApexGear Air Pro 111,Home & Kitchen,Air Purifiers,ApexGear,16.62,29.46,SUP-11,2022,No
+PROD-1103,SKU-880541,VeloceHome Running Plus 112,Apparel & Footwear,Running Shoes,VeloceHome,15.99,38.29,SUP-12,2021,No
+PROD-1104,SKU-863445,VeloceHome Hydration Core 113,Fitness & Outdoors,Hydration,VeloceHome,67.34,122.66,SUP-13,2021,Yes
+PROD-1105,SKU-674941,AeroWear Fragrance Core 114,Beauty & Personal Care,Fragrance,AeroWear,12.45,29.83,SUP-14,2022,No
+PROD-1106,SKU-255776,ApexGear Smart Elite 115,Electronics,Smart Watches,ApexGear,77.43,122.95,SUP-15,2024,No
+PROD-1107,SKU-599425,VeloceHome Coffee Max 116,Home & Kitchen,Coffee & Espresso,VeloceHome,16.4,33.43,SUP-16,2023,No
+PROD-1108,SKU-988339,ApexGear Travel Pro 117,Apparel & Footwear,Travel Bags,ApexGear,54.11,107.19,SUP-17,2021,No
+PROD-1109,SKU-349955,Kinetix Yoga Pro 118,Fitness & Outdoors,Yoga & Recovery,Kinetix,42.55,93.35,SUP-18,2021,No
+PROD-1110,SKU-395201,Lumina Grooming Plus 119,Beauty & Personal Care,Grooming Kits,Lumina,44.69,121.56,SUP-19,2021,N
+PROD-1111,SKU-203992,NovaTech Networking Elite 120,Electronics,Networking,NovaTech,69.79,115.14,SUP-20,2023,No
+PROD-1112,SKU-893825,NovaTech Smart Smart 121,Home & Kitchen,Smart Home,NovaTech,90.63,152.77,SUP-21,2021,Y
+PROD-1113,SKU-699692,PulseFit Travel Prime 122,Apparel & Footwear,Travel Bags,PulseFit,52.87,101.76,SUP-22,2022,No
+PROD-1114,SKU-342812,Kinetix Strength Core 123,Fitness & Outdoors,Strength Equipment,Kinetix,67.15,153.82,SUP-23,2022,No
+PROD-1115,SKU-978388,AeroWear Hair Core 124,Beauty & Personal Care,Hair Styling,AeroWear,19.67,40.39,SUP-24,2021,No
+PROD-1116,SKU-184613,NovaTech Smart Elite 125,Electronics,Smart Watches,NovaTech,170.96,263.32,SUP-25,2024,No
+PROD-1117,SKU-683459,Kinetix Coffee Plus 126,Home & Kitchen,Coffee & Espresso,Kinetix,69.5,147.88,SUP-26,2024,No
+PROD-1118,SKU-391480,Kinetix Running Core 127,Apparel & Footwear,Running Shoes,Kinetix,25.98,68.15,SUP-27,2021,No
+PROD-1119,SKU-289786,ZenithPro Strength Smart 128,Fitness & Outdoors,Strength Equipment,ZenithPro,123.98,249.53,SUP-28,2022,No
+PROD-1120,SKU-506201,PulseFit Grooming Elite 129,Beauty & Personal Care,Grooming Kits,PulseFit,44.64,114.35,SUP-29,2023,Yes
+PROD-1121,SKU-374158,NovaTech Wireless Pro 130,Electronics,Wireless Audio,NovaTech,31.48,54.36,SUP-30,2025,No
+PROD-1122,SKU-501590,PulseFit Coffee Eco 131,Home & Kitchen,Coffee & Espresso,PulseFit,118.23,200.99,SUP-31,2022,Yes
+PROD-1123,SKU-316578,Lumina Activewear Ultra 132,Apparel & Footwear,Activewear,Lumina,9.33,20.16,SUP-32,2022,No
+PROD-1124,SKU-253371,ApexGear Cycling Prime 133,Fitness & Outdoors,Cycling,ApexGear,68.91,158.73,SUP-33,2022,No
+PROD-1125,SKU-977945,PulseFit Grooming Series X 134,Beauty & Personal Care,Grooming Kits,PulseFit,40.85,118.9,SUP-34,2022,N
+PROD-1126,SKU-520547,AeroWear Monitors Core 135,Electronics,Monitors & Displays,AeroWear,32.37,55.41,SUP-10,2025,Yes
+PROD-1127,SKU-498800,ZenithPro Air Elite 136,Home & Kitchen,Air Purifiers,ZenithPro,50.62,101.34,SUP-11,2021,No
+PROD-1128,SKU-446913,AeroWear Travel Pro 137,Apparel & Footwear,Travel Bags,AeroWear,22.47,46.86,SUP-12,2024,No
+PROD-1129,SKU-226092,Kinetix Cycling Eco 138,Fitness & Outdoors,Cycling,Kinetix,119.61,220.63,SUP-13,2023,No
+PROD-1130,SKU-390926,NovaTech Grooming Eco 139,Beauty & Personal Care,Grooming Kits,NovaTech,27.31,71.33,SUP-14,2024,No
+PROD-1131,SKU-597924,Kinetix Laptop Prime 140,Electronics,Laptop Accessories,Kinetix,63.47,123.93,SUP-15,2022,No
+PROD-1132,SKU-210463,Kinetix Cookware Pro 141,Home & Kitchen,Cookware,Kinetix,55.61,119.32,SUP-16,2021,No
+PROD-1133,SKU-972279,ZenithPro Activewear Elite 142,Apparel & Footwear,Activewear,ZenithPro,45.87,103.89,SUP-17,2021,Yes
+PROD-1134,SKU-712722,AeroWear Cycling Prime 143,Fitness & Outdoors,Cycling,AeroWear,147.91,265.21,SUP-18,2023,No
+PROD-1135,SKU-947205,Lumina Grooming Smart 144,Beauty & Personal Care,Grooming Kits,Lumina,20.89,56.78,SUP-19,2023,No
+PROD-1136,SKU-779184,PulseFit Monitors Elite 145,Electronics,Monitors & Displays,PulseFit,186.4,352.68,SUP-20,2022,Yes
+PROD-1137,SKU-613720,Lumina Cookware Series X 146,Home & Kitchen,Cookware,Lumina,124.09,227.74,SUP-21,2024,No
+PROD-1138,SKU-900542,AeroWear Running Elite 147,Apparel & Footwear,Running Shoes,AeroWear,29.92,73.59,SUP-22,2021,No
+PROD-1139,SKU-803067,VeloceHome Cycling Elite 148,Fitness & Outdoors,Cycling,VeloceHome,157.33,275.36,SUP-23,2021,No
+PROD-1140,SKU-188512,Lumina Hair Prime 149,Beauty & Personal Care,Hair Styling,Lumina,52.77,128.31,SUP-24,2022,No
+PROD-1141,SKU-892257,Kinetix Monitors Elite 150,Electronics,Monitors & Displays,Kinetix,205.84,353.01,SUP-25,2023,No
+PROD-1142,SKU-234560,Kinetix Coffee Eco 151,Home & Kitchen,Coffee & Espresso,Kinetix,89.67,156.15,SUP-26,2021,No
+PROD-1143,SKU-429575,NovaTech Activewear Elite 152,Apparel & Footwear,Activewear,NovaTech,43.71,113.54,SUP-27,2021,No
+PROD-1144,SKU-430588,NovaTech Yoga Eco 153, Fitness & Outdoors ,Yoga & Recovery,NovaTech,12.3,23.53,SUP-28,2025,No
+PROD-1145,SKU-691235,VeloceHome Wellness Smart 154,Beauty & Personal Care,Wellness,VeloceHome,47.55,100.53,SUP-29,2022,No
+PROD-1146,SKU-236529,Lumina Laptop Series X 155,Electronics,Laptop Accessories,Lumina,158.63,307.11,SUP-30,2024,No
+PROD-1147,SKU-832470,Lumina Cookware Pro 156,Home & Kitchen,Cookware,Lumina,55.1,108.55,SUP-31,2021,No
+PROD-1148,SKU-863799,ApexGear Outerwear Elite 157,Apparel & Footwear,Outerwear,ApexGear,69.83,146.05,SUP-32,2024,No
+PROD-1149,SKU-349759,AeroWear Strength Plus 158,Fitness & Outdoors,Strength Equipment,AeroWear,88.45,167.24,SUP-33,2023,No
+PROD-1150,SKU-400360,Lumina Fragrance Smart 159,Beauty & Personal Care,Fragrance,Lumina,54.24,124.76,SUP-34,2023,Yes
+PROD-1151,SKU-717518,VeloceHome Smart Eco 160,Electronics,Smart Watches,VeloceHome,155.43,294.71,SUP-10,2022,No
+PROD-1152,SKU-108847,VeloceHome Air Prime 161,Home & Kitchen,Air Purifiers,VeloceHome,26.62,55.72,SUP-11,2025,No
+PROD-1153,SKU-843572,VeloceHome Running Max 162,Apparel & Footwear,Running Shoes,VeloceHome,62.41,163.58,SUP-12,2024,Y
+PROD-1154,SKU-272381,ApexGear Cycling Prime 163,Fitness & Outdoors,Cycling,ApexGear,62.35,120.69,SUP-13,2024,No
+PROD-1155,SKU-376802,NovaTech Hair Eco 164,Beauty & Personal Care,Hair Styling,NovaTech,63.06,139.31,SUP-14,2022,No
+PROD-1156,SKU-844288,ApexGear Wireless Elite 165,Electronics,Wireless Audio,ApexGear,62.07,104.79,SUP-15,2022,No
+PROD-1157,SKU-489022,NovaTech Cookware Eco 166,Home & Kitchen,Cookware,NovaTech,127.55,257.62,SUP-16,2021,No
+PROD-1158,SKU-510743,ZenithPro Activewear Max 167,Apparel & Footwear,Activewear,ZenithPro,14.29,36.98,SUP-17,2021,No
+PROD-1159,SKU-653964,AeroWear Camping Plus 168,Fitness & Outdoors,Camping Gear,AeroWear,70.78,142.99,SUP-18,2021,No
+PROD-1160,SKU-509997,ApexGear Hair Eco 169,Beauty & Personal Care,Hair Styling,ApexGear,10.26,25.12,SUP-19,2022,No
+PROD-1161,SKU-100645,VeloceHome Laptop Smart 170,Electronics,Laptop Accessories,VeloceHome,225.94,407.39,SUP-20,2024,No
+PROD-1162,SKU-197476,NovaTech Cookware Prime 171, Home & Kitchen ,Cookware,NovaTech,119.86,224.62,SUP-21,2022,No
+PROD-1163,SKU-964668,Lumina Outerwear Plus 172,Apparel & Footwear,Outerwear,Lumina,27.73,74.1,SUP-22,2022,Yes
+PROD-1164,SKU-779350,Lumina Strength Series X 173,Fitness & Outdoors,Strength Equipment,Lumina,77.49,151.73,SUP-23,2022,N
+PROD-1165,SKU-579268,Lumina Hair Plus 174,Beauty & Personal Care,Hair Styling,Lumina,28.5,60.57,SUP-24,2021,No
+PROD-1166,SKU-642906,PulseFit Laptop Max 175,Electronics,Laptop Accessories,PulseFit,196.85,334.14,SUP-25,2021,No
+PROD-1167,SKU-686147,AeroWear Cookware Series X 176,Home & Kitchen,Cookware,AeroWear,82.26,176.24,SUP-26,2022,No
+PROD-1168,SKU-307572,PulseFit Activewear Eco 177,Apparel & Footwear,Activewear,PulseFit,46.29,92.92,SUP-27,2024,No
+PROD-1169,SKU-158827,AeroWear Camping Series X 178,Fitness & Outdoors,Camping Gear,AeroWear,109.39,257.55,SUP-28,2024,Yes
+PROD-1170,SKU-459533,VeloceHome Hair Core 179,Beauty & Personal Care,Hair Styling,VeloceHome,50.67,147.47,SUP-29,2021,No
+PROD-1171,SKU-749402,PulseFit Wireless Pro 180,Electronics,Wireless Audio,PulseFit,42.73,78.87,SUP-30,2022,No
+PROD-1172,SKU-721014,PulseFit Storage Elite 181,Home & Kitchen,Storage,PulseFit,86.25,189.97,SUP-31,2023,Yes
+PROD-1173,SKU-752365,Lumina Activewear Series X 182,Apparel & Footwear,Activewear,Lumina,9.08,22.31,SUP-32,2022,No
+PROD-1174,SKU-880223,Lumina Strength Pro 183,Fitness & Outdoors,Strength Equipment,Lumina,41.91,85.34,SUP-33,2021,No
+PROD-1175,SKU-490517,Kinetix Wellness Pro 184,Beauty & Personal Care,Wellness,Kinetix,11.06,29.64,SUP-34,2023,No
+PROD-1176,SKU-532457,AeroWear Wireless Elite 185,Electronics,Wireless Audio,AeroWear,52.94,86.42,SUP-10,2021,No
+PROD-1177,SKU-162397,PulseFit Air Smart 186,Home & Kitchen,Air Purifiers,PulseFit,17.27,32.1,SUP-11,2023,No
+PROD-1178,SKU-432095,VeloceHome Activewear Core 187,Apparel & Footwear,Activewear,VeloceHome,58.46,121.75,SUP-12,2021,No
+PROD-1179,SKU-155770,NovaTech Hydration Plus 188,Fitness & Outdoors,Hydration,NovaTech,28.44,63.54,SUP-13,2023,No
+PROD-1180,SKU-345224,VeloceHome Grooming Plus 189,Beauty & Personal Care,Grooming Kits,VeloceHome,47.62,96.24,SUP-14,2021,No
+PROD-1181,SKU-655833,ApexGear Monitors Series X 100,Electronics,Monitors & Displays,ApexGear,48.41,86.71,SUP-15,2021,N
+PROD-1182,SKU-370849,ApexGear Storage Smart 101,Home & Kitchen,Storage,ApexGear,123.16,251.77,SUP-16,2023,No
+PROD-1183,SKU-354285,AeroWear Accessories Elite 102,Apparel & Footwear,Accessories,AeroWear,71.81,148.75,SUP-17,2022,No
+PROD-1184,SKU-588518,AeroWear Strength Smart 103, Fitness & Outdoors ,Strength Equipment,AeroWear,38.69,83.22,SUP-18,2024,No
+PROD-1185,SKU-897136,Lumina Fragrance Max 104,Beauty & Personal Care,Fragrance,Lumina,44.11,102.79,SUP-19,2022,No
+PROD-1186,SKU-128671,Lumina Smart Eco 105,Electronics,Smart Watches,Lumina,67.37,110.92,SUP-20,2021,No
+PROD-1187,SKU-907635,VeloceHome Smart Prime 106,Home & Kitchen,Smart Home,VeloceHome,94.22,195.01,SUP-21,2021,No
+PROD-1188,SKU-706215,Lumina Travel Prime 107,Apparel & Footwear,Travel Bags,Lumina,16.67,40.99,SUP-22,2021,No
+PROD-1189,SKU-978547,Lumina Camping Ultra 108,Fitness & Outdoors,Camping Gear,Lumina,152.35,265.74,SUP-23,2024,No
+PROD-1190,SKU-898883,ApexGear Fragrance Max 109,Beauty & Personal Care,Fragrance,ApexGear,15.47,42.21,SUP-24,2022,No
+PROD-1191,SKU-779876,VeloceHome Laptop Elite 110,Electronics,Laptop Accessories,VeloceHome,174.6,271.07,SUP-25,2022,No
+PROD-1192,SKU-473516,Kinetix Smart Ultra 111,Home & Kitchen,Smart Home,Kinetix,92.44,199.28,SUP-26,2024,N
+PROD-1193,SKU-220102,PulseFit Outerwear Smart 112,Apparel & Footwear,Outerwear,PulseFit,24.94,61.23,SUP-27,2022,No
+PROD-1194,SKU-720901,NovaTech Yoga Pro 113,Fitness & Outdoors,Yoga & Recovery,NovaTech,141.44,304.24,SUP-28,2022,No
+PROD-1195,SKU-700144,VeloceHome Grooming Smart 114,Beauty & Personal Care,Grooming Kits,VeloceHome,35.7,84.73,SUP-29,2023,No
+PROD-1196,SKU-885157,NovaTech Monitors Plus 115,Electronics,Monitors & Displays,NovaTech,174.85,303.38,SUP-30,2021,Y
+PROD-1197,SKU-945074,VeloceHome Coffee Core 116,Home & Kitchen,Coffee & Espresso,VeloceHome,109.85,185.62,SUP-31,2024,No
+PROD-1198,SKU-801336,ApexGear Activewear Prime 117,Apparel & Footwear,Activewear,ApexGear,57.86,121.26,SUP-32,2024,No
+PROD-1199,SKU-512546,ZenithPro Cycling Eco 118,Fitness & Outdoors,Cycling,ZenithPro,48.68,114.86,SUP-33,2021,No
+PROD-1200,SKU-187656,ZenithPro Grooming Core 119,Beauty & Personal Care,Grooming Kits,ZenithPro,35.98,88.46,SUP-34,2025,No
+PROD-1201,SKU-658900,Kinetix Laptop Ultra 120,Electronics,Laptop Accessories,Kinetix,170.32,318.91,SUP-10,2024,No
+PROD-1202,SKU-480443,ZenithPro Coffee Smart 121,Home & Kitchen,Coffee & Espresso,ZenithPro,30.63,55.67,SUP-11,2021,No
+PROD-1203,SKU-787150,Kinetix Travel Series X 122,Apparel & Footwear,Travel Bags,Kinetix,47.47,119.59,SUP-12,2021,No
+PROD-1204,SKU-599079,NovaTech Yoga Series X 123,Fitness & Outdoors,Yoga & Recovery,NovaTech,45.56,107.01,SUP-13,2024,Yes
+PROD-1205,SKU-974038,AeroWear Skincare Smart 124,Beauty & Personal Care,Skincare Devices,AeroWear,38.91,96.14,SUP-14,2025,No
+PROD-1206,SKU-250521,Kinetix Networking Plus 125,Electronics,Networking,Kinetix,65.44,130.5,SUP-15,2024,No
+PROD-1207,SKU-830190,ApexGear Storage Prime 126,Home & Kitchen,Storage,ApexGear,25.43,49.81,SUP-16,2024,No
+PROD-1208,SKU-787616,PulseFit Outerwear Core 127,Apparel & Footwear,Outerwear,PulseFit,43.74,90.32,SUP-17,2021,No
+PROD-1209,SKU-985415,Lumina Hydration Series X 128,Fitness & Outdoors,Hydration,Lumina,73.16,155.1,SUP-18,2023,No
+PROD-1210,SKU-369334,PulseFit Skincare Series X 129,Beauty & Personal Care,Skincare Devices,PulseFit,8.11,18.11,SUP-19,2025,No
+PROD-1211,SKU-276565,Lumina Networking Series X 130,Electronics,Networking,Lumina,135.47,243.42,SUP-20,2023,No
+PROD-1212,SKU-242633,Kinetix Smart Eco 131,Home & Kitchen,Smart Home,Kinetix,40.2,87.15,SUP-21,2022,No
+PROD-1213,SKU-513647,VeloceHome Travel Core 132,Apparel & Footwear,Travel Bags,VeloceHome,48.27,119.52,SUP-22,2024,No
+PROD-1214,SKU-916049,VeloceHome Strength Prime 133,Fitness & Outdoors,Strength Equipment,VeloceHome,101.21,211.51,SUP-23,2023,No
+PROD-1215,SKU-244643,AeroWear Wellness Eco 134,Beauty & Personal Care,Wellness,AeroWear,54.36,133.47,SUP-24,2021,No
+PROD-1216,SKU-995751,Kinetix Smart Elite 135,Electronics,Smart Watches,Kinetix,35.05,61.97,SUP-25,2022,Yes
+PROD-1217,SKU-459075,NovaTech Cookware Pro 136, Home & Kitchen ,Cookware,NovaTech,56.66,96.74,SUP-26,2023,Yes
+PROD-1218,SKU-886441,VeloceHome Accessories Max 137,Apparel & Footwear,Accessories,VeloceHome,55.38,126.53,SUP-27,2023,Yes
+PROD-1219,SKU-214291,ApexGear Cycling Plus 138,Fitness & Outdoors,Cycling,ApexGear,105.92,235.26,SUP-28,2022,No
+PROD-1220,SKU-866109,VeloceHome Wellness Elite 139,Beauty & Personal Care,Wellness,VeloceHome,71.18,145.64,SUP-29,2022,No
+PROD-1221,SKU-705027,Kinetix Networking Elite 140, Electronics ,Networking,Kinetix,150.92,283.07,SUP-30,2023,Yes
+PROD-1222,SKU-274863,NovaTech Smart Eco 141,Home & Kitchen,Smart Home,NovaTech,22.56,39.09,SUP-31,2022,No
+PROD-1223,SKU-359229,Kinetix Travel Series X 142,Apparel & Footwear,Travel Bags,Kinetix,50.14,97.53,SUP-32,2023,No
+PROD-1224,SKU-876511,PulseFit Yoga Series X 143,Fitness & Outdoors,Yoga & Recovery,PulseFit,53.65,115.15,SUP-33,2025,Yes
+PROD-1225,SKU-357899,Lumina Fragrance Series X 144,Beauty & Personal Care,Fragrance,Lumina,16.57,39.75,SUP-34,2024,N
+PROD-1226,SKU-826217,AeroWear Networking Core 145,Electronics,Networking,AeroWear,216.2,353.29,SUP-10,2022,Yes
+PROD-1227,SKU-939800,AeroWear Smart Series X 146,Home & Kitchen,Smart Home,AeroWear,119.58,228.07,SUP-11,2022,No
+PROD-1228,SKU-962346,Kinetix Outerwear Smart 147,Apparel & Footwear,Outerwear,Kinetix,50.88,127.97,SUP-12,2023,No
+PROD-1229,SKU-673135,VeloceHome Hydration Elite 148,Fitness & Outdoors,Hydration,VeloceHome,49.93,88.25,SUP-13,2024,No
+PROD-1230,SKU-615638,Lumina Fragrance Core 149,Beauty & Personal Care,Fragrance,Lumina,9.65,20.84,SUP-14,2021,No
+PROD-1231,SKU-566258,AeroWear Networking Pro 150,Electronics,Networking,AeroWear,34.95,68.72,SUP-15,2021,No
+PROD-1232,SKU-437899,PulseFit Air Eco 151,Home & Kitchen,Air Purifiers,PulseFit,103.71,177.71,SUP-16,2021,No
+PROD-1233,SKU-195491,ZenithPro Travel Series X 152,Apparel & Footwear,Travel Bags,ZenithPro,28.26,71.77,SUP-17,2021,No
+PROD-1234,SKU-789584,Lumina Hydration Max 153,Fitness & Outdoors,Hydration,Lumina,81.86,192.75,SUP-18,2023,No
+PROD-1235,SKU-722635,AeroWear Fragrance Smart 154,Beauty & Personal Care,Fragrance,AeroWear,8.61,20.37,SUP-19,2022,No
+PROD-1236,SKU-140094,PulseFit Networking Smart 155,Electronics,Networking,PulseFit,197.27,368.72,SUP-20,2021,No
+PROD-1237,SKU-227791,AeroWear Cookware Smart 156,Home & Kitchen,Cookware,AeroWear,151.24,253.37,SUP-21,2021,No
+PROD-1238,SKU-325377,PulseFit Travel Ultra 157,Apparel & Footwear,Travel Bags,PulseFit,68.32,136.02,SUP-22,2021,No
+PROD-1239,SKU-750777,PulseFit Cycling Core 158,Fitness & Outdoors,Cycling,PulseFit,92.44,192.65,SUP-23,2025,No
+PROD-1240,SKU-718181,NovaTech Wellness Core 159,Beauty & Personal Care,Wellness,NovaTech,23.82,67.91,SUP-24,2022,No
+PROD-1241,SKU-664832,Kinetix Laptop Series X 160,Electronics,Laptop Accessories,Kinetix,184.35,327.04,SUP-25,2022,N
+PROD-1242,SKU-978830,ApexGear Smart Series X 161,Home & Kitchen,Smart Home,ApexGear,42.77,94.57,SUP-26,2022,No
+PROD-1243,SKU-874618,PulseFit Accessories Ultra 162,Apparel & Footwear,Accessories,PulseFit,37.33,73.29,SUP-27,2024,No
+PROD-1244,SKU-512171,ApexGear Hydration Series X 163,Fitness & Outdoors,Hydration,ApexGear,69.93,143.95,SUP-28,2023,No
+PROD-1245,SKU-409804,Kinetix Skincare Ultra 164,Beauty & Personal Care,Skincare Devices,Kinetix,18.12,46.37,SUP-29,2024,Y
+PROD-1246,SKU-355367,VeloceHome Monitors Elite 165,Electronics,Monitors & Displays,VeloceHome,33.02,61.86,SUP-30,2021,Yes
+PROD-1247,SKU-173736,ZenithPro Cookware Plus 166,Home & Kitchen,Cookware,ZenithPro,60.86,111.39,SUP-31,2024,Yes
+PROD-1248,SKU-171168,Kinetix Running Elite 167,Apparel & Footwear,Running Shoes,Kinetix,41.29,100.61,SUP-32,2022,No
+PROD-1249,SKU-572452,Kinetix Strength Core 168,Fitness & Outdoors,Strength Equipment,Kinetix,23.68,44.56,SUP-33,2021,N
+PROD-1250,SKU-658918,ZenithPro Fragrance Smart 169,Beauty & Personal Care,Fragrance,ZenithPro,54.76,121.49,SUP-34,2021,Yes
